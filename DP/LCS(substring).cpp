@@ -42,7 +42,7 @@ int main()
             longest = max(longest,dp[i][j]);
         }
     }
-    cout << "length of Longest commmon substring between String a and b is "<<  longest << endl;
+    cout << "Length of Longest commmon substring between String a and b is "<<  longest << endl;
 
     return 0;
 }

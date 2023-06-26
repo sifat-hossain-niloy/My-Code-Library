@@ -38,7 +38,7 @@ int main()
             }
         }
     }
-    cout << "length of Longest commmon subsequence between String a and b is "<<  dp[m][n] << endl;
+    cout << "Length of Longest commmon subsequence between String a and b is "<<  dp[m][n] << endl;
 
     return 0;
 }
