@@ -10,6 +10,8 @@ using namespace std;
 // Counts the number of different substrings of string S
 // Complexity O(n*n)
 
+// A better approach would be using Suffix Array ,that works in O(nlog n)
+
 int count_unique_substrings(string const& s) {
     int n = s.size();
 
