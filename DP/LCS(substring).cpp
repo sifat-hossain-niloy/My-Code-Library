@@ -9,7 +9,7 @@ using namespace std;
 ll dp[N][N];
 
 
-// Longest Common Subsequence
+// Longest Common Substring
 // Top-Down approach
 
 
